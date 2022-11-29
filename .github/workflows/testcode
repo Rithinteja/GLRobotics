@@ -21,7 +21,7 @@ wait(30, MSEC)
 # ----------------------------------------------------------------------------
 #                                                                            
 #    Project:        
-#    Description:    
+#    Description:    Rithinteja Aechan
 #    Configuration:  V5 Clawbot (Drivetrain 2-motor, No Gyro)
 #                    Claw Motor in Port 3
 #                    Arm Motor in Port 8          
